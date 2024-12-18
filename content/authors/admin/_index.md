@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Yulun Wu
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+#name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Yulun
+last_name: Wu
 
 # Status emoji
-status:
-  icon: ☕️
+#status:
+#  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,31 +20,23 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Data Scientist | ML Enthusiast | Specializing in Predictive Analytics & Data Solutions
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: University of Pennsylvania
+    url: https://www.upenn.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:wyulun@seas.upenn.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/wylwswswws
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.linkedin.com/in/yulunwu02
 
 interests:
   - Artificial Intelligence
@@ -52,60 +44,39 @@ interests:
   - Information Retrieval
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Master of Science in Engineering in Systems Engineering
+    institution: University of Pennsylvania
+    date_start: 2024-08-27
+    date_end: 2026-05-20
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+      Pursuing advanced studies in data science, applied machine learning, and statistical modeling. 
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Bachelor of Science (Honours) in Mathematics with Applied Mathematics
+    institution: University of Nottingham
+    date_start: 2020-09-27
+    date_end: 2024-07-14
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Overall GPA: 3.90/4.00 | First Class | Provost’s Scholarship (06/2021)
+      - Specialized in probability theory, statistical methods, and mathematical modeling. 
+work:
+  - position: Data Analyst Intern
+    company_name: Novo Nordisk (China) Pharmaceuticals Co., Ltd.
+    company_url: 'https://www.novonordisk.com.cn/'
+    date_start: 2023-06-18
+    date_end: 2023-09-15
+    summary: |
+      - Collaborated with Microsoft China on a company-wide database migration project, consolidating five databases into one. Analyzed data flow, optimized SQL queries for enhanced efficiency, and contributed to the development of over 20 user requirement specifications.
+      - Leveraged Python and statistical techniques to process and analyze historical sales promotion data for pharmaceuticals. Developed time series models to provide insights for optimizing future promotions and recommending budget allocations. 
+      
+  - position: Data Analyst Intern
+    company_name: Central Institute of Mental Health
+    company_url: 'https://www.zi-mannheim.de/en/index.html'
+    date_start: 2023-01-15
+    date_end: 2023-05-15
+    summary: |
+      - Explored neurophysiological activity under stress conditions using a neuropsychological paradigm and combining functional MRI and heart rate signal (in collaboration with the Max Planck Institute of Psychiatry). 
+      - Analyzed fMRI-BOLD and photoplethysmogram signals respectively utilizing generalized linear models (GLM) and wabp algorithm in MATLAB and found brain regions’ interaction with the autonomic nervous system under stress. 
+      - Presented research results in an Academic Seminar at Heidelberg University to 20 scholars and researchers and prepared a poster for an international conference; Expect to publish the research findings in high-impact international journals. 
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -183,4 +154,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello! I’m Yulun Wu, a data scientist with a background in mathematics and systems engineering. Currently pursuing my MSE at the University of Pennsylvania, I specialize in data analysis, machine learning, and predictive modeling. I’m passionate about leveraging data-driven insights to solve complex problems, particularly in the fields of healthcare and technology. With hands-on experience in tools like Python, SQL, R, and MATLAB, I enjoy creating innovative solutions that have a real-world impact. Welcome to my space – feel free to explore my projects and connect!
