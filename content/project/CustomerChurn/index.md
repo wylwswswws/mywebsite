@@ -8,8 +8,3 @@ summary: |
   - Conducted extensive simulations to optimize parameters and analyzed factors improving traffic flow  
     and reducing congestion.
 ---
-
-  - Developed and implemented traffic flow models, including cellular automata, car-following models, and PDEs,  
-    to simulate realistic traffic dynamics.  
-  - Conducted extensive simulations to optimize parameters and analyzed factors improving traffic flow  
-    and reducing congestion.
