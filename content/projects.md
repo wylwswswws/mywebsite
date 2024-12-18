@@ -17,7 +17,7 @@ sections:
         folders:
           - project
     design:
-      view: grid
+      view: list
       fill_image: false
       columns: 1
 ---
