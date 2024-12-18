@@ -31,6 +31,18 @@ sections:
           summary: |
             Developed and implemented traffic flow models, including cellular automata, car-following models, and PDEs 
             to simulate realistic traffic dynamics. Optimized parameters to reduce congestion.
-    design:
-      view: compact
+        - title: "Traffic Flow Modeling"
+          date: "2024-04-01"
+          external_link: "https://github.com/pandas-dev/pandas"
+          summary: |
+            Developed and implemented traffic flow models, including cellular automata, car-following models, and PDEs 
+            to simulate realistic traffic dynamics. Optimized parameters to reduce congestion.
+        - title: "Traffic Flow Modeling"
+          date: "2024-04-01"
+          external_link: "https://github.com/pandas-dev/pandas"
+          summary: |
+            Developed and implemented traffic flow models, including cellular automata, car-following models, and PDEs 
+            to simulate realistic traffic dynamics. Optimized parameters to reduce congestion.
+      design:
+        view: compact
 ---
