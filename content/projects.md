@@ -17,7 +17,7 @@ sections:
         folders:
           - project
     design:
-      view: list
-      fill_image: false
-      columns: 1
+      view: compact
+      #fill_image: false
+      #columns: 1
 ---
